@@ -11,9 +11,10 @@ $.ajax(
       					    {
       					    src: tweet.url,
       					    }
-      			 	    );
-      		}	    )	
+      			     );
+      		}     )	
     	}
-    } );
+    	} 
+       );
 
 $('.tweets').append(tweets)
