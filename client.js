@@ -7,7 +7,7 @@ $.ajax(
       	var tweets = '';
       		$.each(data.tweet, function (i, tweet) 
       		{ tweets =+ 
-      			$ 	  ('<img>',
+      			    $('<img>',
       					    {
       					    src: tweet.url,
       					    }
