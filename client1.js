@@ -17,4 +17,4 @@ $.ajax(
     	} 
        );
 
-$('.tweets').append(tweets)
+$('.gallery').append(tweets)
